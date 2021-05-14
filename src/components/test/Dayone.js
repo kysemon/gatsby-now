@@ -9,6 +9,7 @@ const Dayone = ({data}) => {
     return (
         <div>
             <h1>he</h1>
+            <p>Mongolia this test</p>
             <StaticImage 
             src="https://cdn.shopify.com/s/files/1/0098/6044/8292/files/web-cover-510_1788x.jpg?v=1620572285"
             placeholder="blurred"
